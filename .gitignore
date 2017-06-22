@@ -99,3 +99,8 @@ all.config
 
 # fetched Android config fragments
 android/configs/android-*.cfg
+
+# add my private files
+build_log.txt
+build_ugg.sh
+out/
